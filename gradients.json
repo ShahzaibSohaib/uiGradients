@@ -1532,5 +1532,10 @@
     {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
+    },
+    {
+        "name": "Dusky Silver",
+        "colors": ["#dbe9f6", "#edf2fb"]
     }
+
 ]
